@@ -37,12 +37,6 @@
       </a>
       <br>Azure
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#cloud-services">
-        <img src="./img/gcp.png" width="48" height="48" alt="GCP" />
-      </a>
-      <br>GCP
-    </td> -->
   </tr>
 </table>
 
@@ -50,7 +44,6 @@
 
 - **AWS**: EC2, S3, Lambda, CloudWatch, Route 53, RDS
 - **Azure**: App Service, Azure Functions, Azure DevOps, Virtual Machines
-<!-- - **GCP**: Compute Engine, Cloud Functions, BigQuery, Cloud Storage -->
 
 **Programming and Languages**
 
@@ -77,12 +70,6 @@
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/github-actions" width="48" height="48" alt="Github Actions" />
-      </a>
-      <br>Github Actions
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
@@ -106,14 +93,28 @@
       </a>
       <br>GitHub Actions
     </td>
+     <td align="center" width="96">
+      <a href="#programming-and-languages">
+        <img src="./img/terraform.svg" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#programming-and-languages">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+
   </tr>
 </table>
 
 ### Connect with me
 
 <p align="left">
-<a href="https://x.com/AmitKum43380951" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baivabmukopad3" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amitkushwaha7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baivab mukhopadhyay" height="30" width="40" /></a>
+<a href="https://x.com/AmitKum43380951" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amit Kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amitkushwaha7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Kushwaha" height="30" width="40" /></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -134,14 +135,11 @@
       <td align="center">
         <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsamitkushwaha&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact" alt="Amit's Top Languages"/>
       </td>
-      <!-- <td align="center">
-        <a href="https://github.com/itsbaivab/Meshery">
-          <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=itsbaivab&repo=Meshery&title_color=5dade2&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-        </a>
-      </td> -->
     </tr>
   </table>
 </div>
+
+
 
 <!-- ## Dev.to Blogs
 
