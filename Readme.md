@@ -12,10 +12,10 @@
     </div>
     <div style="flex: 1; padding-left: 10px; font-size: 18px;">
         <ul>
-            <li>🌱 I'm currently learning about <strong>Distributed System</strong></li>
-            <li>💬 Ask me about <strong>Cloud, Devops and Backend</strong></li>
-            <li>📫 How to reach me <strong><a href="mailto:amitkumarsingh843412@gmail.com">amitkumarsingh843412@gmail.com</a></strong></li>
-            <li>⚡ Fun fact: I love to listen music</li>
+            <li>🌱 I'm currently learning about <strong>Distributed Systems</strong></li>
+            <li>💬 Ask me about <strong>Cloud, DevOps, and Backend</strong></li>
+            <li>📫 How to reach me: <strong><a href="mailto:amitkumarsingh843412@gmail.com">amitkumarsingh843412@gmail.com</a></strong></li>
+            <li>⚡ Fun fact: I love to listen to music</li>
             <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
         </ul>
     </div>
@@ -26,15 +26,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#cloud-services">
         <img src="./img/aws.png" width="48" height="48" alt="AWS" />
-      </a>
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#cloud-services">
         <img src="./img/azure.png" width="48" height="48" alt="Azure" />
-      </a>
       <br>Azure
     </td>
   </tr>
@@ -45,76 +41,57 @@
 - **AWS**: EC2, S3, Lambda, CloudWatch, Route 53, RDS
 - **Azure**: App Service, Azure Functions, Azure DevOps, Virtual Machines
 
-**Programming and Languages**
-
+**Programming and Languages:**
 > Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
-      </a>
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/jenkins.png" width="48" height="48" alt="Jsonnet" />
-      </a>
+        <img src="./img/jenkins.png" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
       <br>Docker
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
       <br>Grafana
     </td>
     <td align="center" width="96">
-      <a href="#programming-and-languages">
         <img src="./img/github-actions.svg" width="48" height="48" alt="GitHub Actions" />
-      </a>
       <br>GitHub Actions
     </td>
-     <td align="center" width="96">
-      <a href="#programming-and-languages">
+    <td align="center" width="96">
         <img src="./img/terraform.svg" width="48" height="48" alt="Terraform" />
-      </a>
       <br>Terraform
     </td>
-    </td>
-     <td align="center" width="96">
-      <a href="#programming-and-languages">
+    <td align="center" width="96">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
-      </a>
       <br>Javascript
     </td>
-
   </tr>
 </table>
 
 ### Connect with me
 
 <p align="left">
-<a href="https://x.com/AmitKum43380951" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amit Kushwaha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amitkushwaha7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Kushwaha" height="30" width="40" /></a>
+<a href="https://x.com/AmitKum43380951" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amitkushwaha7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -146,9 +123,3 @@
     <img alt="Amit's Contribution Snake" src="https://raw.githubusercontent.com/itsamitkushwaha/itsamitkushwaha/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<!-- ## Dev.to Blogs
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@baivabmukhopadhyay/2" alt="Recent Article 2"></a> -->
