@@ -2,10 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 12 AM UTC every day
     - cron: "0 0 * * *"
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+# ADD THIS BLOCK to grant the Action permission to push files
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,9 +17,7 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # Your GitHub username
           github_user_name: itsamitkushwaha
-          # Generates both a light and dark mode animation
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
