@@ -18,10 +18,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: itsamitkushwaha
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#f7768e&color_dots=#1a1b27,#24283b,#7aa2f7,#bb9af7,#9ece6a
-            
+       outputs: |
+            dist/github-contribution-grid-snake.svg?color_bg=transparent
+            dist/github-contribution-grid-snake-dark.svg?color_bg=transparent&color_snake=#fce22a&color_dots=#120458,#7a04eb,#ff00a0,#fe1c80,#fce22a            
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
