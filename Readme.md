@@ -128,11 +128,11 @@
         </a>
       </td>
       <td align="center">
-        <img width="430" src="https://github-readme-stats.vercel.app/api?username=itsamitkushwaha&show_icons=true&theme=tokyonight" alt="Amit's Github Stats" />
+        <img width="430" src="https://github-readme-stats-defcon27.vercel.app/api?username=itsamitkushwaha&show_icons=true&theme=tokyonight" alt="Amit's Github Stats" />
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" colspan="2">
         <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=itsamitkushwaha&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact" alt="Amit's Top Languages"/>
       </td>
     </tr>
