@@ -139,7 +139,13 @@
   </table>
 </div>
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsamitkushwaha/itsamitkushwaha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsamitkushwaha/itsamitkushwaha/output/github-contribution-grid-snake.svg">
+    <img alt="Amit's Contribution Snake" src="https://raw.githubusercontent.com/itsamitkushwaha/itsamitkushwaha/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- ## Dev.to Blogs
 
