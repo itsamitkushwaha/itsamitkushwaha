@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amit Kushwaha ![Profile views](https://komarev.com/ghpvc/?username=itsamitkushwaha&label=Stalked%20by&color=02f28a&style=flat)
 
-### A passionate Cloud, DevOps & Backend Developer
+### A passionate Cloud, DevOps Developer
 
 <p align="center">
     <img src="./header_1.png" alt="Header Image">
